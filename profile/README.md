@@ -25,19 +25,19 @@ The SDK integrates directly with our main smart contract to provide NFTs and ass
 
 3-[STYLE-SDK-Unreal-Engine](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK-Unreal-Engine):
 
-![alt text](images/STYLESDKUnreal-Engine.png)
+![alt text](https://github.com/STYLE-Protocol/STYLE-Tech-SDKs/blob/main/images/STYLESDKUnreal-Engine.png)
 
 The SDK integrates directly with our main smart contract to provide NFTs and assets from various metaverses using Unreal-Engine. The requirement to integrate is a simple Unreal-Engine project working or game built using Unreal-Engine.
 
 
 4- [STYLE-API](https://style-protocol.gitbook.io/api): 
 
-![alt text](images/STYLEAPI.png)
+![alt text](https://github.com/STYLE-Protocol/STYLE-Tech-SDKs/blob/main/images/STYLEAPI.png)
 
 A public API is provided to fetch NFTs and assets from our smart contract, offering fast access for developers to retrieve data directly from the blockchain. It is recommended to use the [STYLE-SDK-WEB](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK) or [STYLE-SDK-Unity](https://github.com/STYLE-Protocol/STYLE-Protocol-SDK-Unity)for full integration with our main smart contract.
 
 5- [SDK-Asset-Bridge-Button](https://github.com/STYLE-Protocol/SDK-Asset-Bridge-Button):
 
-![alt text](images/STYLEBridgeButton.png)
+![alt text](https://github.com/STYLE-Protocol/STYLE-Tech-SDKs/blob/main/images/STYLEBridgeButton.png)
 
 The SDK can be integrated in your platform and allow you bridge any asset/NFT for any metaverse. This SDK provides full interoperability across multiple metaverses, games, NFT collections and chains.The requirment is to integrate the npm package on your existing application. 
